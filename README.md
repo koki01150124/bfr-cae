@@ -198,7 +198,3 @@ bfr-cae/
 
 - Theis, L., Shi, W., Cunningham, A., & Huszár, F. (2017). Lossy Image Compression with Compressive Autoencoders. *ICLR*.
 - Kodak Lossless True Color Image Suite: <https://r0k.us/graphics/kodak/>
-
-## ライセンス
-
-ライセンスは選定中です．公開前に `LICENSE` を追加予定です．
