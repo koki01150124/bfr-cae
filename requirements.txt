@@ -1,0 +1,11 @@
+# Local development / verification environment.
+# On Google Colab, prefer the preinstalled PyTorch and install only missing packages.
+
+torch==2.14.0
+torchvision==0.29.0
+pytorch-msssim==1.0.0
+numpy==2.5.3
+Pillow==12.3.0
+matplotlib==3.11.2
+jupyter==1.1.1
+ipykernel==7.3.0
